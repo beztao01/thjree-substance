@@ -1,4 +1,6 @@
 # ThreeJS Substance
 Documentacion sobre como poder visualizar los materiales de substance en la web
 
-![suzanne](https://user-images.githubusercontent.com/51276791/177018320-a1897070-35ce-4bd0-95f4-406490d67e40.png)
+
+
+![substancepng](https://github.com/beztao01/thjree-substance/assets/51276791/339628fa-c45f-4fda-b9f4-440ea7f24097)
