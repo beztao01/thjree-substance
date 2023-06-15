@@ -23,10 +23,13 @@ button {
 }
 
 #info {
+	background-color: rgba(0, 0, 0, 0.5);
 	position: absolute;
 	top: 0px;
 	width: 100%;
 	padding: 10px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: large;
 	box-sizing: border-box;
 	text-align: center;
 	-moz-user-select: none;
